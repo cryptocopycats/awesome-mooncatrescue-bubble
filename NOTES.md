@@ -3,6 +3,8 @@
 
 ## Popularity & Rarity
 
+**All possible MoonCat pose / patterns**
+
 Midnight Lightning
 writes in all All possible MoonCat pose / patterns
 <https://www.reddit.com/r/MoonCatRescue/comments/6tmp86/all_possible_mooncat_patterns/>:
@@ -17,6 +19,16 @@ Plus one flag to "invert" the colors (make the dominant color of the cat a light
 Seen here are the 256 variations all using the same color base (pure red). The number under each cat is the variation number (the k value that's used in the mooncatparser.js script),
 which is the second byte of the cat's ID.
 
+And in another posting:
+
+There's four different fur patterns, and four different mouth poses, 
+which you can see the 16 permutations of in the first 16 horizontal rows of this image <https://imgur.com/4fWQs2s>.
+
+Cats can have "inverted" colors, so that's 32 different appearance possibilities. 
+There's then four different poses possible to make the 256 possibilities in that image.
+
+
+**All color variations for MoonCats**
 
 Midnight Lightning
 writes in all All color variations for MoonCats
@@ -32,9 +44,27 @@ so you can get colors between each of these variations,
 but you probably won't be able to distinguish them with the naked eye.
 
 
+And in another posting:
+
+A cat's ID is always 5 bytes long. The first byte is whether it's a Genesis cat or not. 
+The second byte controls pose and pattern for the cat, 
+and the final three bytes are the red, green, and blue color channels for defining the cat's color. 
+However when rendered a cat will always appear as the fully-saturated version of that color 
+(rendering code takes the RGB values and converts them to a "hue" and then fully-saturates it), not the literal RGB values.
+
+Yeah, the color math takes some wrapping your head around; it's moving from "RGB" space, 
+which represents colors as how much Red, Green, and Blue pigment they have 
+(therefore three "sliders" that go from zero to 255), and is sometimes visualized as a cube, 
+and converts it to "HSL" space, which represents colors by which Hue they are 
+(and how "saturated" that hue is, and the "luminosity" (lightness/darkness) of that color), 
+which is often visualized as a cylinder (because "hue" goes from zero to 360 degrees). 
+Going from "a cube" to "a cylinder" does indeed take some weird math 
+to map every point in one volume to another point in the other volume.
 
 
-More about generate art:
+
+
+**More about generate art**
 
 
 MidnightLightning writes
