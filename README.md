@@ -76,7 +76,7 @@ id,           palette, k,   r,   g,   b,      hue, sat,    lum
 ...
 ```
 
-For more see [/mooncatrescue](https://github.com/cryptocopycats/mooncatrescue)
+For more see [**/mooncatrescue »**](https://github.com/cryptocopycats/mooncatrescue)
 
 
 
