@@ -1,6 +1,27 @@
 # Notes
 
+
+## Popularity & Rarity
+
+Midnight Lightning
+writes in all All possible MoonCat patterns
+<https://www.reddit.com/r/MoonCatRescue/comments/6tmp86/all_possible_mooncat_patterns/>:
+
+
+There's four possible poses for MoonCats,
+plus 32 different pattern variations
+for a total of 128 variations.
+
+Plus one flag to "invert" the colors (make the dominant color of the cat a lighter version of the color), for a grand total of 256 variations.
+
+Seen here are the 256 variations all using the same color base (pure red). The number under each cat is the variation number (the k value that's used in the mooncatparser.js script),
+which is the second byte of the cat's ID.
+
+
+
+
 About colors:
+
 
 MidnightLightning writes
 
