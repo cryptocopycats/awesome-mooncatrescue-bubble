@@ -3,7 +3,7 @@
 
 All Pose / Pattern Variations
 
-![](mooncatrescue-pattern.png)
+![](mooncatrescue-patterns.png)
 
 
 
