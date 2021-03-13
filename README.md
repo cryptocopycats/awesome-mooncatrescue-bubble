@@ -24,6 +24,11 @@ reddit: [MoonCatRescue](https://www.reddit.com/r/MoonCatRescue/)
 
 
 
+Note: Genesis cats (?? max.) are not "rescued" but rather "released" by the contract owners. 
+If those original project owners re-emerge, they'd have the ability to release more Genesis cats.
+
+
+
 
 
 
