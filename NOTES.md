@@ -4,7 +4,7 @@
 ## Popularity & Rarity
 
 Midnight Lightning
-writes in all All possible MoonCat patterns
+writes in all All possible MoonCat pose / patterns
 <https://www.reddit.com/r/MoonCatRescue/comments/6tmp86/all_possible_mooncat_patterns/>:
 
 
@@ -18,9 +18,23 @@ Seen here are the 256 variations all using the same color base (pure red). The n
 which is the second byte of the cat's ID.
 
 
+Midnight Lightning
+writes in all All color variations for MoonCats
+<https://www.reddit.com/r/MoonCatRescue/comments/6tmu09/all_color_variations_for_mooncats/>:
+
+Colors of MoonCats are based on the random RGB values that are encoded into their IDs, 
+but are always a fully-saturated version of that color. 
+This array of sample cats walks around the color wheel (360 degrees) showing all the possibilities, 
+plus the "inverted" version (where a lighter version of the color is the dominant color of the cat).
+
+Technically you can get hue values that are fractions of a degree, 
+so you can get colors between each of these variations, 
+but you probably won't be able to distinguish them with the naked eye.
 
 
-About colors:
+
+
+More about generate art:
 
 
 MidnightLightning writes
