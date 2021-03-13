@@ -90,6 +90,7 @@ Adding more color uniqueness, possibly by varying the saturation, at least withi
 
 MoonCat Club - <https://mooncat.club/>
 
-
+MoonCat rarity by ID, havent looked at this in-depth yet but worth a look -
+<https://rarity.studio/cats.html>
 
 
