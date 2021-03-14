@@ -69,17 +69,17 @@ For more blockchain books, see the [**Best of Crypto Books page »**](https://op
 > After MoonCats are "mined", they can be put up for adoption, adoptions can be requested, they can be given away,
 > and they can be permanently named.
 
-Launched in August 2017 with 25,600 non-fungible tokens (NFTs) to rescue, pre the ERC721 standard.
+Launched in August 2017 by Ponderware with 25,600 non-fungible tokens (NFTs) to rescue, pre the ERC721 standard.
 
 
 Learn more @ [mooncatrescue.com](https://mooncatrescue.com),
-twitter: [MoonCatRescue](https://twitter.com/MoonCatRescue),
+twitter: [ponderware](https://twitter.com/ponderware),
 reddit: [MoonCatRescue](https://www.reddit.com/r/MoonCatRescue/)
 
 
 
 
-Note: Genesis cats (?? max.) are not "rescued" but rather "released" by the contract owners. 
+Note: Genesis cats (256 max.) are not "rescued" but rather "released" by the contract owners. 
 If those original project owners re-emerge, they'd have the ability to release more Genesis cats.
 
 
@@ -186,10 +186,9 @@ Markets
 
 
 
-
 ## Datasets
 
-### mooncats.csv  -  25 440 MoonCats by ID with Design and Colors in RGB and HSL (Hue, Sat, Lum)
+### mooncats.csv  -  25 440 MoonCats by ID with Pattern, Pose, Facing, Face, Fur and Colors in RGB and HSL (Hue, Sat, Lum)
 
 Mooncats dataset in comma-separated values (CSV) format
 in blocks of a thousand cats each
@@ -199,20 +198,21 @@ in blocks of a thousand cats each
 `02.csv` incl. 0x0013b72770-0x001e26e929,
 and so on).
 The data records for cats
-incl. id, palette, design, colars in rbg and hsl (hue, sat, lum)
+incl. id, palette, pattern, pose, facing, face, fur, colors in rbg and hsl (hue, sat, lum), row and mint serial number,
 and more.
 Example - `00.csv`:
 
 
 ```
-id,           palette, k,   r,   g,   b,      hue, sat,    lum
-0x0000020886, Normal,  0,   2,   8, 134, 237.2727, 0.9705, 0.2666
-0x000002f63e, Normal,  0,   2, 246,  62, 134.7540, 0.9838, 0.4862
-0x000004683b, Normal,  0,   4, 104,  59, 153,      0.9259, 0.2117
-0x0000048998, Normal,  0,   4, 137, 152, 186.0810, 0.9487, 0.3058
-0x000006ce5d, Normal,  0,   6, 206,  93, 146.1,    0.9433, 0.4156
+row, id,           palette, pattern, pose, facing, face, fur, color,    ... mint
+0,   0x0000020886, Normal, 0, Standing, Left, Smile, Solid, Sky Blue,   ... 2679
+1,   0x000002f63e, Normal, 0, Standing, Left, Smile, Solid, Green,      ... 13869
+2,   0x000004683b, Normal, 0, Standing, Left, Smile, Solid, Lime Green, ... 24457
+3,   0x0000048998, Normal, 0, Standing, Left, Smile, Solid, Cyan,       ... 22386
+4,   0x000006ce5d, Normal, 0, Standing, Left, Smile, Solid, Green,      ... 7933
 ...
 ```
+
 
 For more see [**/mooncatrescue »**](https://github.com/cryptocopycats/mooncatrescue)
 
