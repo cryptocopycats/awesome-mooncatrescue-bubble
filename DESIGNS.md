@@ -2,8 +2,7 @@
 
 In original pixel size¹ and 3x zoom; tagged with pose (4), face (4), fur (4), facing (2) attributes.
 
-
----¹: Standing (21×17), Sleeping (20×14), Pouncing (17×22), Stalking (20×21)
+¹: Standing (21×17), sleeping (20×14), pouncing (17×22), stalking (20×21)
 
 
 | Standing | Sleeping | Pouncing | Stalking |
