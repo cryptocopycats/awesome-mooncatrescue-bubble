@@ -3,6 +3,12 @@ For more blockchain books, see the [**Best of Crypto Books page »**](https://op
 ---
 
 
+![](https://github.com/cryptocopycats/awesome-mooncatrescue-bubble/raw/master/i/design-000x3.png)
+![](https://github.com/cryptocopycats/awesome-mooncatrescue-bubble/raw/master/i/design-001x3.png)
+![](https://github.com/cryptocopycats/awesome-mooncatrescue-bubble/raw/master/i/design-002x3.png)
+![](https://github.com/cryptocopycats/awesome-mooncatrescue-bubble/raw/master/i/design-003x3.png)
+
+
 > What is a mooncat? Just another cryptokitty? How are they selling for so much?
 >
 > Mooncats are scarce and verifiable. 
