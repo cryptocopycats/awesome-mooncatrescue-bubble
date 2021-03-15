@@ -3,14 +3,14 @@ For more blockchain books, see the [**Best of Crypto Books page »**](https://op
 ---
 
 
-![](https://github.com/cryptocopycats/awesome-mooncatrescue-bubble/raw/master/i/design-000x3.png)
-![](https://github.com/cryptocopycats/awesome-mooncatrescue-bubble/raw/master/i/design-001x3.png)
-![](https://github.com/cryptocopycats/awesome-mooncatrescue-bubble/raw/master/i/design-002x3.png)
-![](https://github.com/cryptocopycats/awesome-mooncatrescue-bubble/raw/master/i/design-003x3.png)
-![](https://github.com/cryptocopycats/awesome-mooncatrescue-bubble/raw/master/i/design-056x3.png)
-![](https://github.com/cryptocopycats/awesome-mooncatrescue-bubble/raw/master/i/design-057x3.png)
-![](https://github.com/cryptocopycats/awesome-mooncatrescue-bubble/raw/master/i/design-058x3.png)
-![](https://github.com/cryptocopycats/awesome-mooncatrescue-bubble/raw/master/i/design-059x3.png)
+![](i/design-000x3.png)
+![](i/design-001x3.png)
+![](i/design-002x3.png)
+![](i/design-003x3.png)
+![](i/design-056x3.png)
+![](i/design-057x3.png)
+![](i/design-058x3.png)
+![](i/design-059x3.png)
 
 
 > What is a mooncat? Just another cryptokitty? How are they selling for so much?
