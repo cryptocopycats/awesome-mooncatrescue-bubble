@@ -203,9 +203,13 @@ The Mooncat developers (Ponderware) write:
 > There has been some interest in knowing how we drew them, so we figured we might as well release it. 
 > Prepare to be underwhelmed!  => [**mooncatrescue.com/pixeleditor**](https://mooncatrescue.com/pixeleditor)
 
-A little tip if you try it out - there are 128 original mooncat pixel drawings / design  (encoded in the source code as a single-line string - see [`designs.rb`](https://raw.githubusercontent.com/cryptocopycats/mooncats/master/lib/mooncats/designs.rb) for a "word-wrapped" more read-able source of the original example.
 
-You can read in the design in the pixel drawing tool online  (reformat required - a row must be on its own line and all numbers space separated). Here's the reformatted example for design 0:
+A little tip if you try it out online - there are [128 original mooncat pixel drawings / designs](DESIGNS.md)  
+(all encoded in the original source code in a single-line string - see [`designs.rb`](https://raw.githubusercontent.com/cryptocopycats/mooncats/master/lib/mooncats/designs.rb) for a "word-wrapped" more readable 
+source of the original example.
+
+Yes, you can read in the design into the pixel drawing tool online  (reformat required - every pixel row must be on its own line 
+and all (color) numbers space separated). Example for design 0:
 
 ```
 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0
@@ -231,7 +235,12 @@ You can read in the design in the pixel drawing tool online  (reformat required 
 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0
 ```
 
-And for some more fun here's the design 3 reformatted:
+Paste the text into the box below the pixel grid canvas and click on the read button. 
+Now you should see the mooncat pixel design.
+
+![](i/pixel-design-000.png)
+
+And for some more fun here's the design 3 reformatted - ready to copy'n'paste:
 
 ```
 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 0 0 0 1 1 1
@@ -256,9 +265,7 @@ And for some more fun here's the design 3 reformatted:
 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 1 1 1 0 0 0
 ```
 
-Paste into the text box below the grid and click on read. Now you should see the mooncat pixel design.
-
-
+![](i/pixel-design-003.png)
 
 
 
