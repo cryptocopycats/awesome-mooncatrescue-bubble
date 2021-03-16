@@ -195,6 +195,73 @@ Markets
 - Wrapped MoonCatsRescue (WMCR) @ OpenSea - [`wrapped-mooncatsrescue`](https://opensea.io/collection/wrapped-mooncatsrescue)
 
 
+## Do-It-Yourself (DIY) Corner - The Original Mooncat Pixel Drawing Tool Online
+
+The Mooncat developers (Ponderware) write:
+
+> Here is the tool we wrote and used to generate the MoonCatRescue pixel art. 
+> There has been some interest in knowing how we drew them, so we figured we might as well release it. 
+> Prepare to be underwhelmed!  => [**mooncatrescue.com/pixeleditor**](https://mooncatrescue.com/pixeleditor)
+
+A little tip if you try it out - there are 128 original mooncat pixel drawings / design  (encoded in the source code as a single-line string - see [`designs.rb`](https://raw.githubusercontent.com/cryptocopycats/mooncats/master/lib/mooncats/designs.rb) for a "word-wrapped" more read-able source of the original example.
+
+You can read in the design in the pixel drawing tool online  (reformat required - a row must be on its own line and all numbers space separated). Here's the reformatted example for design 0:
+
+```
+0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0
+0 1 1 1 3 3 3 3 3 1 0 0 0 0 0 0 0
+1 3 5 3 3 3 3 3 3 3 1 1 1 0 0 0 0
+0 1 3 3 3 1 3 4 3 3 1 3 3 1 0 0 0
+0 0 1 3 3 3 3 3 4 3 1 3 3 3 1 1 1
+0 0 1 3 3 3 3 5 3 3 1 3 3 3 3 5 1
+0 0 1 3 3 3 3 3 4 3 1 3 3 1 1 1 1
+0 1 3 3 3 1 3 4 3 3 1 3 3 3 1 1 1
+1 3 5 3 3 3 3 3 3 3 1 3 1 3 3 5 1
+0 1 1 1 3 3 3 3 3 1 3 3 4 1 1 1 1
+0 0 0 1 1 1 1 1 1 3 3 3 4 4 4 1 1
+0 0 0 0 0 1 3 3 3 3 3 3 4 1 1 5 1
+0 0 0 0 0 1 3 3 3 3 3 3 1 3 3 3 1
+0 0 0 0 0 1 3 3 3 3 3 3 3 3 3 1 1
+0 0 0 0 0 1 3 3 3 3 3 3 3 3 1 1 0
+0 0 0 0 0 1 1 3 3 3 3 3 3 1 1 0 0
+0 0 0 0 0 0 1 1 1 3 3 3 1 1 0 0 0
+0 0 0 1 1 1 0 0 1 3 1 1 1 0 0 0 0
+0 0 0 1 3 1 1 1 1 3 1 0 0 0 0 0 0
+0 0 0 1 1 3 3 3 3 1 1 0 0 0 0 0 0
+0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0
+```
+
+And for some more fun here's the design 3 reformatted:
+
+```
+0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 0 0 0 1 1 1
+0 0 0 0 0 0 0 1 3 3 3 3 3 3 3 1 0 1 1 5 1
+0 0 0 0 0 0 1 3 5 3 3 3 3 3 3 3 1 1 3 3 1
+0 0 0 0 0 0 1 1 3 3 3 1 3 4 3 3 1 3 3 1 1
+0 0 0 0 0 0 0 0 1 3 3 3 3 3 4 3 1 3 3 1 0
+0 0 0 0 0 0 0 0 1 3 3 3 3 5 3 3 1 3 1 1 1
+0 0 0 0 0 0 0 0 1 3 3 3 3 3 4 3 1 3 3 5 1
+0 0 0 0 0 0 0 1 3 3 3 1 3 4 3 3 1 3 3 1 1
+0 0 0 0 0 0 1 3 5 3 3 3 3 3 3 3 1 3 1 1 0
+0 0 0 0 0 0 1 1 3 3 3 3 3 3 3 1 3 3 1 0 0
+1 1 1 1 0 0 0 0 1 1 1 1 1 1 1 1 3 1 1 0 0
+1 3 3 1 0 0 0 0 1 1 3 3 3 3 3 3 3 1 1 1 0
+1 3 1 0 0 0 0 1 1 3 3 3 3 3 3 4 1 1 5 1 0
+1 3 1 0 0 0 1 1 3 3 3 3 3 3 4 4 1 3 3 1 0
+1 3 3 1 0 0 1 3 3 3 3 3 3 3 4 4 1 3 1 1 1
+1 1 3 1 1 1 1 3 3 3 3 3 3 4 4 1 1 1 1 5 1
+0 1 3 3 3 3 1 3 3 3 3 3 3 3 3 3 1 1 3 3 1
+0 1 1 1 1 3 1 3 3 3 3 3 3 3 3 3 3 3 3 1 1
+0 0 0 0 1 1 1 1 3 3 3 1 1 1 1 3 3 1 1 1 0
+0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 1 1 1 0 0 0
+```
+
+Paste into the text box below the grid and click on read. Now you should see the mooncat pixel design.
+
+
+
+
+
 
 ## Datasets
 
