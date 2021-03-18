@@ -310,7 +310,7 @@ You can download all 25 440 MoonCats
 in a 2400×6120 image (~ 6 MB) for free.
 See [`mooncatrescue.png` »](i/mooncatrescue.png).
 
-Note: The listing follows the mooncats.csv dataset, that is,
-ordered by ids
-e.g. `0x0000020886`, `0x000002f63e`, `0x000004683b`,
-and so on.
+Note: The mooncat listing order follows the mooncats.csv dataset, that is,
+ordered by (5-byte hex string) ids
+e.g. `0x0000020886`, `0x000002f63e`, `0x000004683b`, and so on.
+
