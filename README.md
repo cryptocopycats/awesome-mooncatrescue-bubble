@@ -15,16 +15,16 @@ For more blockchain books, see the [**Best of Crypto Books page »**](https://op
 
 > What is a mooncat? Just another cryptokitty? How are they selling for so much?
 >
-> Mooncats are scarce and verifiable. 
-> You can bring a mooncat anywhere in the world, 
+> Mooncats are scarce and verifiable.
+> You can bring a mooncat anywhere in the world,
 > airplane or boat, proving itself to be a truer store of value than gold itself.
 >
 > Only 25 thousand mooncats. 21 million bitcoins. Do the math.
 >
 > Oh my god I want so much a mooncat. How do I get a mooncat?
 >
-> Bought a mooncat!  Really happy to be a part of this historic moment.  
-> Poor things were stranded on the moon for 4 years. 
+> Bought a mooncat!  Really happy to be a part of this historic moment.
+> Poor things were stranded on the moon for 4 years.
 >
 > Bought my first mooncat, happy to have joined the club and I'm HODLing.
 >
@@ -34,21 +34,21 @@ For more blockchain books, see the [**Best of Crypto Books page »**](https://op
 >
 > Changed my profile to a mooncat I bought.
 >
-> Mooncats just overtook hashmasks in 7 day volume ... 
+> Mooncats just overtook hashmasks in 7 day volume ...
 > less that 24 hours after the first sale ... crazy!
 >
-> Donated some mooncat profits to the local cat shelter, 
+> Donated some mooncat profits to the local cat shelter,
 > if you've made money off of digital cats please help some real cats too.
 >
-> Someone took Jeff Bezos crown today [as the richest man on earth]. 
+> Someone took Jeff Bezos crown today [as the richest man on earth].
 > Top mooncat holder owns 1,144 cats. LOL.
 >
 > I can right click and save a mooncat [pixel image for free].
 >
-> Cryptocats hold more weight but hype is low 
+> Cryptocats hold more weight but hype is low
 > because smaller amount of owners who are HODLling.
-> So many more mooncat owners creating hype. 
-> Long term value is in cryptocats 
+> So many more mooncat owners creating hype.
+> Long term value is in cryptocats
 > [only 625 cyrptocats. 25 thousand mooncats. Do the math.]
 >
 > -- March 13, 2021
@@ -56,14 +56,14 @@ For more blockchain books, see the [**Best of Crypto Books page »**](https://op
 
 
 <!--
-  sources: 
+  sources:
     https://twitter.com/krypticrooks/status/1370461081307611138
     https://twitter.com/sampepper/status/1370502291661287424
     https://twitter.com/HeadieXBT/status/1370790386592067587
     https://twitter.com/pwnlord69/status/1370480976309190656
     https://twitter.com/xenziiii/status/1370805874126643216
     https://twitter.com/EmyJColey/status/1370801384174583815
-    https://twitter.com/shakiXBT/status/1370791104854036489 
+    https://twitter.com/shakiXBT/status/1370791104854036489
     https://twitter.com/YazTrades/status/1370760956259799040
     https://twitter.com/Fronta1pha/status/1370757584379068418
 -->
@@ -89,7 +89,7 @@ reddit: [MoonCatRescue](https://www.reddit.com/r/MoonCatRescue/)
 
 
 
-Note: Genesis cats (256 max.) are not "rescued" but rather "released" by the contract owners. 
+Note: Genesis cats (256 max.) are not "rescued" but rather "released" by the contract owners.
 If those original project owners re-emerge, they'd have the ability to release more Genesis cats.
 
 
@@ -114,21 +114,21 @@ Mooncat Rescue Day - Friday, March 12, 2021 - Mooncat Mania
  -->
 
 2nd oldest digitial collectible¹ on the (ethereum)  blockchain
-rediscovered after four years 
+rediscovered after four years
 and 100% rescued ("mined") during 4 hours of craze today.
-The project died after a bug in the contract 
+The project died after a bug in the contract
 that locked the raised fund mid 2017.
 
-¹: 
-- CryptoPunks -    
+¹:
+- CryptoPunks -
 - MoonCats -       Aug 9, 2017
 - CryptoKitties -  Nov 28, 2017
 
 
-> MoonCatRescue has been added to the [Non-fungible Token Wikipedia page](https://en.wikipedia.org/wiki/Non-fungible_token). 
-> MoonCat is the 2nd NFT collection to ever exist on the Ethereum blockchain, 
+> MoonCatRescue has been added to the [Non-fungible Token Wikipedia page](https://en.wikipedia.org/wiki/Non-fungible_token).
+> MoonCat is the 2nd NFT collection to ever exist on the Ethereum blockchain,
 > it was only discovered 10 hours ago after being forgotten about for nearly 4 years.
-> 
+>
 > -- [March 12, 2021](https://twitter.com/HarryBTC/status/1370551833538785280)
 
 
@@ -137,24 +137,24 @@ Ponderware Update
 
 twitter: [ponderware](https://twitter.com/ponderware)
 
-First Update Since 2017! 
+First Update Since 2017!
 
-> 
+>
 > Attempting to re-establish contact with the moonbase. Stay Tuned.
 >
 > -- [March 13, 2021](https://twitter.com/ponderware/status/1370793182175318019)
 
 Four Year Later on March 12th, 2021 MoonCatRescue Reborn!
 
-> MoonCatRescue, an exploration of user-discoverable blockchain collectibles is now live. 
-> Come rescue a MoonCat at MoonCatRescue.com! 
-> 
+> MoonCatRescue, an exploration of user-discoverable blockchain collectibles is now live.
+> Come rescue a MoonCat at MoonCatRescue.com!
+>
 > -- [Aug 11, 2017](https://twitter.com/ponderware/status/896066883710926848)
- 
+
 
 MoonCats Facts
 
-1. Founder unknown/disappeared. Just like Satoshi for #Bitcoin 
+1. Founder unknown/disappeared. Just like Satoshi for #Bitcoin
 2. Second oldest collectible on Ethereum after CryptoPunks
 3. Only 25,600 in existence
 4. Required CPU power and manual work -> No whales
@@ -199,16 +199,16 @@ Markets
 
 The Mooncat developers (Ponderware) write:
 
-> Here is the tool we wrote and used to generate the MoonCatRescue pixel art. 
-> There has been some interest in knowing how we drew them, so we figured we might as well release it. 
+> Here is the tool we wrote and used to generate the MoonCatRescue pixel art.
+> There has been some interest in knowing how we drew them, so we figured we might as well release it.
 > Prepare to be underwhelmed!  => [**mooncatrescue.com/pixeleditor**](https://mooncatrescue.com/pixeleditor)
 
 
-A little tip if you try it out online - there are [128 original mooncat pixel drawings / designs](DESIGNS.md)  
-(all encoded in the original source code in a single-line string - see [`designs.rb`](https://raw.githubusercontent.com/cryptocopycats/mooncats/master/lib/mooncats/designs.rb) for a "word-wrapped" more readable 
+A little tip if you try it out online - there are [128 original mooncat pixel drawings / designs](DESIGNS.md)
+(all encoded in the original source code in a single-line string - see [`designs.rb`](https://raw.githubusercontent.com/cryptocopycats/mooncats/master/lib/mooncats/designs.rb) for a "word-wrapped" more readable
 source of the original example.
 
-Yes, you can read in the design into the pixel drawing tool online  (reformat required - every pixel row must be on its own line 
+Yes, you can read in the design into the pixel drawing tool online  (reformat required - every pixel row must be on its own line
 and all (color) numbers space separated). Example for design 0:
 
 ```
@@ -235,7 +235,7 @@ and all (color) numbers space separated). Example for design 0:
 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0
 ```
 
-Paste the text into the box below the pixel grid canvas and click on the read button. 
+Paste the text into the box below the pixel grid canvas and click on the read button.
 Now you should see the mooncat pixel design.
 
 ![](i/pixel-design-000.png)
@@ -302,5 +302,15 @@ For more see [**/mooncatrescue »**](https://github.com/cryptocopycats/mooncatre
 
 
 
+## mooncatrescue.png Composite - All 25 440 MoonCats in One Image (2400×6120)
 
+![](i/mooncatrescue-zoom.png)
 
+You can download all 25 440 MoonCats
+in a 2400×6120 image (~ 6 MB) for free.
+See [`mooncatrescue.png` »](i/mooncatrescue.png).
+
+Note: The listing follows the mooncats.csv dataset, that is,
+ordered by ids
+e.g. `0x0000020886`, `0x000002f63e`, `0x000004683b`,
+and so on.
