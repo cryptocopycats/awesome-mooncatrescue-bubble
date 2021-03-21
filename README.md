@@ -71,7 +71,7 @@ For more blockchain books, see the [**Best of Crypto Books page »**](https://op
 
 # Awesome MoonCatRescue Bubble (Anno 2021)
 
-25,600 MoonCats on the Blockchain - World's 1st On-Chain Generative Crypto Art - An Insanely Cute Rescue Operation
+25,600 MoonCats on the Blockchain - World's 1st On-Chain (Verified) Generative Crypto Art - An Insanely Cute Rescue Operation
 
 
 > MoonCatRescue is an exploration of user-discoverable blockchain assets.
