@@ -93,4 +93,17 @@ MoonCat Club - <https://mooncat.club/>
 MoonCat rarity by ID, havent looked at this in-depth yet but worth a look -
 <https://rarity.studio/cats.html>
 
+New frontend to buyAndWrap! -
+https://mooncathelper.com lets you input a catId from the Adoption Center, buy and it wrap into an ERC-721 token in a single transaction - saving time and money.
+
+<!-- source: https://twitter.com/seeker_curious/status/1374042801160163334  -->
+
+
+https://mooncatexplorer.netlify.app/ - source: https://github.com/ACatThatPrograms/mooncat-explorer
+
+MoonCatImageGenerator - source: https://github.com/nateawelch/Moon-Cat-PNG-Generator
+
+MoonCat Tools - source: https://github.com/bokkypoobah/MoonCatTools
+
+
 
