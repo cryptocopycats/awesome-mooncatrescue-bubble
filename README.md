@@ -96,15 +96,6 @@ twitter: [ponderware](https://twitter.com/ponderware),
 reddit: [MoonCatRescue](https://www.reddit.com/r/MoonCatRescue/)
 
 
-Ponderware updates:
-
-> As for the remaining 160 genesis cats.
-> We are trying to work out the best course
-> to maintain the ethos of the project,
-> and maximize the enjoyment of all mooncat rescuers.
-> Note: we don't receive any compensation for new genesis cats.
-> We were supposed to but, well, check the FAQ.
-> -- [March 14, 2021](https://twitter.com/ponderware/status/1370945005641158659)
 
 
 
@@ -132,7 +123,8 @@ Ponderware updates:
 > 6. Pay Gas    [Should be like $25-35 else it is wrong.]
 > HODL Your Mooncat
 >
-> -- [Allen Hena](https://twitter.com/RealAllenHena/status/1370404268604280832)
+> -- [Allen Hena, March 12, 2021](https://twitter.com/RealAllenHena/status/1370404268604280832)
+
 
 
 2nd oldest digitial collectible on the (ethereum) blockchain
@@ -247,6 +239,23 @@ Crypto Explained Commentary:
 > Big support line at 0.4 ETH broke, we are finding new local lows at 0.3,
 > but there is no convincing strength in reaction here either.
 > Could go lower, levels like 0.2 or 0.1 are now possible.
+
+
+
+
+##  Vote Yes! - Burn the Keys!
+
+Ponderware updates:
+
+> As for the remaining 160 genesis cats.
+> We are trying to work out the best course
+> to maintain the ethos of the project,
+> and maximize the enjoyment of all mooncat rescuers.
+> Note: we don't receive any compensation for new genesis cats.
+> We were supposed to but, well, check the FAQ.
+> -- [March 14, 2021](https://twitter.com/ponderware/status/1370945005641158659)
+
+
 
 
 
@@ -370,8 +379,16 @@ By Tim Hakki, Decrypt, Mar 13, 2021 - A seemingly abandoned NFT cat project from
 > significance and scarcity affect the desirability of an non-fungible token.
 > With a maximum cap of 25,600 discoverable pixelated cats, MoonCats easily fulfilled both criteria for a potential goldmine.
 
+[**Digital archeology: long-dormant MoonCats project rides Nonf-Fungible Token (NFT) mania to the moon**](https://cointelegraph.com/news/digital-archeology-long-dormant-mooncats-project-rides-nft-mania-to-the-moon)
+By Andrew Thurman, Coin Telegraph, Mar 13, 2021 - The second-ever nonfungible collectibles project on Ethereum sees new life.
 
-
+> As the profusion of new algorithmically-generated nonfungible token
+> projects drives down the premium on digital rarity,
+> digital history and being among the "firsts" has become
+> a more reliable source of value.
+> As a result, long-forgotten projects are being unearthed
+> by on-chain sleuths, and yesterday they might have
+> struck gold on their biggest find yet.
 
 
 
