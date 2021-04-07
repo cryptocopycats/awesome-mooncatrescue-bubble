@@ -96,6 +96,21 @@ to buy more genesis cats.
 
 
 
+---
+
+MoonCats Facts
+
+1. Founder unknown/disappeared. Just like Satoshi for #Bitcoin
+2. Second oldest collectible on Ethereum after CryptoPunks
+3. Only 25,600 in existence
+4. Required CPU power and manual work -> No whales
+5. Immense history value -> collectibles rescued after 4 years
+6. CryptoKitties contract submitted on Nov 28, 2017, MoonCats contract submitted on Aug 09, 2017. This makes them first cats in NFT existence.
+7. You can name them. And that was possible FOUR years before Hashmasks!
+
+
+> -- [March 12, 2021](https://twitter.com/sampepper/status/1370502291661287424)
+
 
 
 

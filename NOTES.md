@@ -21,10 +21,10 @@ which is the second byte of the cat's ID.
 
 And in another posting:
 
-There's four different fur patterns, and four different mouth poses, 
+There's four different fur patterns, and four different mouth poses,
 which you can see the 16 permutations of in the first 16 horizontal rows of this image <https://imgur.com/4fWQs2s>.
 
-Cats can have "inverted" colors, so that's 32 different appearance possibilities. 
+Cats can have "inverted" colors, so that's 32 different appearance possibilities.
 There's then four different poses possible to make the 256 possibilities in that image.
 
 
@@ -34,31 +34,31 @@ Midnight Lightning
 writes in all All color variations for MoonCats
 <https://www.reddit.com/r/MoonCatRescue/comments/6tmu09/all_color_variations_for_mooncats/>:
 
-Colors of MoonCats are based on the random RGB values that are encoded into their IDs, 
-but are always a fully-saturated version of that color. 
-This array of sample cats walks around the color wheel (360 degrees) showing all the possibilities, 
+Colors of MoonCats are based on the random RGB values that are encoded into their IDs,
+but are always a fully-saturated version of that color.
+This array of sample cats walks around the color wheel (360 degrees) showing all the possibilities,
 plus the "inverted" version (where a lighter version of the color is the dominant color of the cat).
 
-Technically you can get hue values that are fractions of a degree, 
-so you can get colors between each of these variations, 
+Technically you can get hue values that are fractions of a degree,
+so you can get colors between each of these variations,
 but you probably won't be able to distinguish them with the naked eye.
 
 
 And in another posting:
 
-A cat's ID is always 5 bytes long. The first byte is whether it's a Genesis cat or not. 
-The second byte controls pose and pattern for the cat, 
-and the final three bytes are the red, green, and blue color channels for defining the cat's color. 
-However when rendered a cat will always appear as the fully-saturated version of that color 
+A cat's ID is always 5 bytes long. The first byte is whether it's a Genesis cat or not.
+The second byte controls pose and pattern for the cat,
+and the final three bytes are the red, green, and blue color channels for defining the cat's color.
+However when rendered a cat will always appear as the fully-saturated version of that color
 (rendering code takes the RGB values and converts them to a "hue" and then fully-saturates it), not the literal RGB values.
 
-Yeah, the color math takes some wrapping your head around; it's moving from "RGB" space, 
-which represents colors as how much Red, Green, and Blue pigment they have 
-(therefore three "sliders" that go from zero to 255), and is sometimes visualized as a cube, 
-and converts it to "HSL" space, which represents colors by which Hue they are 
-(and how "saturated" that hue is, and the "luminosity" (lightness/darkness) of that color), 
-which is often visualized as a cylinder (because "hue" goes from zero to 360 degrees). 
-Going from "a cube" to "a cylinder" does indeed take some weird math 
+Yeah, the color math takes some wrapping your head around; it's moving from "RGB" space,
+which represents colors as how much Red, Green, and Blue pigment they have
+(therefore three "sliders" that go from zero to 255), and is sometimes visualized as a cube,
+and converts it to "HSL" space, which represents colors by which Hue they are
+(and how "saturated" that hue is, and the "luminosity" (lightness/darkness) of that color),
+which is often visualized as a cylinder (because "hue" goes from zero to 360 degrees).
+Going from "a cube" to "a cylinder" does indeed take some weird math
 to map every point in one volume to another point in the other volume.
 
 
@@ -85,7 +85,6 @@ Adding more color uniqueness, possibly by varying the saturation, at least withi
 
 
 
-
 ## More Links / Resources
 
 MoonCat Club - <https://mooncat.club/>
@@ -97,13 +96,4 @@ New frontend to buyAndWrap! -
 https://mooncathelper.com lets you input a catId from the Adoption Center, buy and it wrap into an ERC-721 token in a single transaction - saving time and money.
 
 <!-- source: https://twitter.com/seeker_curious/status/1374042801160163334  -->
-
-
-https://mooncatexplorer.netlify.app/ - source: https://github.com/ACatThatPrograms/mooncat-explorer
-
-MoonCatImageGenerator - source: https://github.com/nateawelch/Moon-Cat-PNG-Generator
-
-MoonCat Tools - source: https://github.com/bokkypoobah/MoonCatTools
-
-
 

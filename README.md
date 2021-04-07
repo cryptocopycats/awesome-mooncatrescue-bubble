@@ -71,6 +71,8 @@ For more blockchain books, see the [**Best of Crypto Books page »**](https://op
 
 # Awesome MoonCatRescue Bubble (Anno 2021)
 
+
+
 25,600 MoonCats on the Blockchain - World's 1st On-Chain (Verified) Generative Crypto Art - An Insanely Cute Rescue Operation
 
 
@@ -79,7 +81,14 @@ For more blockchain books, see the [**Best of Crypto Books page »**](https://op
 > After MoonCats are "mined", they can be put up for adoption, adoptions can be requested, they can be given away,
 > and they can be permanently named.
 
-Launched in August 2017 by Ponderware with 25,600 non-fungible tokens (NFTs) to rescue, pre the ERC721 standard.
+Launched in August 2017 by Ponderware with 25,600 non-fungible tokens (NFTs) to rescue, pre ERC-721 standard.
+
+Note: Genesis cats (256 max.) are not "rescued" but rather "released" by the contract owners.
+If those original project owners re-emerge, they'd have the ability to release more Genesis cats.
+
+The project died after a bug in the contract
+that locked ("burned") the raised funds via genesis cats releases / adoptions mid 2017.
+
 
 
 Learn more @ [mooncatrescue.com](https://mooncatrescue.com),
@@ -87,17 +96,31 @@ twitter: [ponderware](https://twitter.com/ponderware),
 reddit: [MoonCatRescue](https://www.reddit.com/r/MoonCatRescue/)
 
 
+Ponderware updates:
+
+> As for the remaining 160 genesis cats.
+> We are trying to work out the best course
+> to maintain the ethos of the project,
+> and maximize the enjoyment of all mooncat rescuers.
+> Note: we don't receive any compensation for new genesis cats.
+> We were supposed to but, well, check the FAQ.
+> -- [March 14, 2021](https://twitter.com/ponderware/status/1370945005641158659)
 
 
-Note: Genesis cats (256 max.) are not "rescued" but rather "released" by the contract owners.
-If those original project owners re-emerge, they'd have the ability to release more Genesis cats.
+
+## Mooncat Rescue Day - Friday, March 12, 2021 - Mooncat Mania History
+
+> Lost cat: found.
+>
+> Since the front-end interface of MoonCatRescue.com had long been
+> defunct, dedicated non-fungible token (NFT) fans
+> had to manually interact with the contract using Etherscan
+> to rescue the cats. It didn't take long before detailed
+> instructions were circulating...
 
 
-History
 
-Mooncat Rescue Day - Friday, March 12, 2021 - Mooncat Mania
-
-> Mooncats look like the 2nd oldest NFTs on Ethereum...
+> Mooncats look like the 2nd oldest¹ NFTs on Ethereum...
 >
 > How to claim for free?
 >
@@ -106,23 +129,47 @@ Mooncat Rescue Day - Friday, March 12, 2021 - Mooncat Mania
 > 3. https://etherscan.io/token/0x60cd862c9c687a9de49aecdc3a99b74a4fc54ab6#writeContract
 > 4. Connect @MetaMask
 > 5. RescueCat() enter seed
-> 6. Pay Gas    [Should be like $35-50 else it is wrong.]
+> 6. Pay Gas    [Should be like $25-35 else it is wrong.]
 > HODL Your Mooncat
+>
+> -- [Allen Hena](https://twitter.com/RealAllenHena/status/1370404268604280832)
 
-<!--
-  https://twitter.com/RealAllenHena/status/1370404268604280832
- -->
 
-2nd oldest digitial collectible¹ on the (ethereum)  blockchain
+2nd oldest digitial collectible on the (ethereum) blockchain
 rediscovered after four years
 and 100% rescued ("mined") during 4 hours of craze today.
-The project died after a bug in the contract
-that locked the raised fund mid 2017.
+
+MoonCats rescued by year:
+
+| Year | Count |
+|------|-------|
+| 2017 |  3365  (13.23%) |
+| 2018 |  2319  ( 9.12%) |
+| 2019 |    71  ( 0.28%) |
+| 2020 |     3  ( 0.01%) |
+| 2021 | 19682  (77.37%) |
+
+
+Resulting in 19 681 MoonCats (77.36%) rescued on March 12, 2021 - if you compare to 492 (1.93%) rescued on August 10, 2017 - the launch day -
+and 412 (1.62%) on launch day+1, and 229 (0.90%) on launch day+2.
+
+The Mooncat could get rescued for "free" on March 12, 2021 - paying only the transaction gas fee about $25-35 at the time resulting in a gold rush for miners raking in about $600 000 in a couple of hours.
+
 
 ¹:
-- CryptoPunks -
+- CryptoPunks -    June 12, 2017
 - MoonCats -       Aug 9, 2017
 - CryptoKitties -  Nov 28, 2017
+
+Note: Since Mooncat Rescue Day - Friday, March 12, 2021
+many more older digitial collectibles have been (re)discovered
+incl. Curio Cards, Etheria and others.
+
+<!--
+  https://curio.cards/
+  https://github.com/curiocards
+-->
+
 
 
 > MoonCatRescue has been added to the [Non-fungible Token Wikipedia page](https://en.wikipedia.org/wiki/Non-fungible_token).
@@ -130,6 +177,7 @@ that locked the raised fund mid 2017.
 > it was only discovered 10 hours ago after being forgotten about for nearly 4 years.
 >
 > -- [March 12, 2021](https://twitter.com/HarryBTC/status/1370551833538785280)
+
 
 
 
@@ -152,18 +200,55 @@ Four Year Later on March 12th, 2021 MoonCatRescue Reborn!
 > -- [Aug 11, 2017](https://twitter.com/ponderware/status/896066883710926848)
 
 
-MoonCats Facts
 
-1. Founder unknown/disappeared. Just like Satoshi for #Bitcoin
-2. Second oldest collectible on Ethereum after CryptoPunks
-3. Only 25,600 in existence
-4. Required CPU power and manual work -> No whales
-5. Immense history value -> collectibles rescued after 4 years
-6. CryptoKitties contract submitted on Nov 28, 2017, MoonCats contract submitted on Aug 09, 2017. This makes them first cats in NFT existence.
-7. You can name them. And that was possible FOUR years before Hashmasks!
+Crypto Explained Commentary:
+
+> MoonCats have taken the NFTs market by storm in the past 24 hours.
+>
+> A project that was created back in 2017 "rescued" over 20,000 cats
+> in a matter of [four] hours
+> and less than a day later had the 4th highest trade volume on
+> the opensea market [via Wrapped MoonCatsRescue (WMCR)].
+>
+> Outside of the ~0.025 ETH gas fee, these cats were free to mint
+>
+> this meant there was nothing preventing a user from minting
+> as many cats as they wanted
+>
+> immediately after all the cats were rescued,
+> there were people in the new mooncats channel
+> looking to scoop up cats for 0.1-0.2 ETH
+>
+> these transactions had to be done through the contract
+> as the wrapping solution (so sell on opensea) hadn't been created yet
+>
+> after a few more hours, a wrapper contract was created.
+> Which allowed people to sell their cats on opensea
+>
+> the floor price quickly solidified at 0.2-0.4 ETH
+> (Personally saw bots sending out hundreds of offers at these prices)
+>
+> as of this very moment, the lowest "buy it now" cat price is 0.86 ETH
+>
+> if we assume people paid roughly 0.02 ETH to mint these cats,
+> then everyone is currently up 4000% on their initial purchase
+>
+>
+> -- [March 14, 2021](https://twitter.com/Crypt0Explained/status/1370899591537721344)
 
 
-> -- [March 12, 2021](https://twitter.com/sampepper/status/1370502291661287424)
+
+
+> Mooncats are off to a good (re)start I think... floor hit 1.7 ETH
+> in like 2 days showing us what's possible.
+>
+> Moon, cats, pixels, colors... what could go wrong?
+>
+> Big support line at 0.4 ETH broke, we are finding new local lows at 0.3,
+> but there is no convincing strength in reaction here either.
+> Could go lower, levels like 0.2 or 0.1 are now possible.
+
+
 
 
 
@@ -266,6 +351,30 @@ And for some more fun here's the design 3 reformatted - ready to copy'n'paste:
 ```
 
 ![](i/pixel-design-003.png)
+
+
+
+## Articles
+
+[**An Ancient Non-Fungible Token (NFT) Project Called MoonCats Is Eating Up Ethereum**](https://decrypt.co/61316/an-ancient-nft-project-called-mooncats-is-eating-up-ethereum)
+By Tim Hakki, Decrypt, Mar 13, 2021 - A seemingly abandoned NFT cat project from 2017 has now been totally mined. And no: it's not CryptoKitties.
+
+> One of the oldest sets of digital collectibles
+> ever contracted on the Ethereum blockchain
+> has been rediscovered
+> and snapped up by feverish crypto hoarders in a matter of hours.
+>
+> Virtually nobody had heard of MoonCats until yesterday...
+> [...]
+> In the world of crypto-collectibles, factors like historical
+> significance and scarcity affect the desirability of an non-fungible token.
+> With a maximum cap of 25,600 discoverable pixelated cats, MoonCats easily fulfilled both criteria for a potential goldmine.
+
+
+
+
+
+
 
 
 
