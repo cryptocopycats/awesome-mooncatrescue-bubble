@@ -299,7 +299,7 @@ The Mooncat developers (Ponderware) write:
 
 
 A little tip if you try it out online - there are [128 original mooncat pixel drawings / designs](DESIGNS.md)
-(all encoded in the original source code in a single-line string - see [`designs.rb`](https://raw.githubusercontent.com/cryptocopycats/mooncats/master/lib/mooncats/designs.rb) for a "word-wrapped" more readable
+(all encoded in the original source code in a single-line string - see [`designs.rb`](https://raw.githubusercontent.com/cryptocopycats/mooncats/master/mooncats/lib/mooncats/designs.rb) for a "word-wrapped" more readable
 source of the original example.
 
 Yes, you can read in the design into the pixel drawing tool online  (reformat required - every pixel row must be on its own line
