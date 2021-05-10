@@ -1,6 +1,6 @@
 # MoonCat Designs (128)
 
-In original pixel size¹ and 3x zoom; tagged with pose (4), face (4), fur (4), facing (2) attributes.
+In original pixel size¹ and 3x zoom; tagged with pose (4), face expression (4), fur pattern (4), facing left/right (2) attributes.
 
 
 ¹: Standing (21×17), sleeping (20×14), pouncing (17×22), stalking (20×21)
